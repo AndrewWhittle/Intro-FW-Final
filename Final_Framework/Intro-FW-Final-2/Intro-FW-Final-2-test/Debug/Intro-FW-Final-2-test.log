@@ -1,2 +1,1 @@
-﻿  main.cpp
-LINK : fatal error LNK1104: cannot open file 'Intro-FW-Final-2.lib'
+﻿LINK : fatal error LNK1104: cannot open file 'Intro-FW-Final-2.lib'

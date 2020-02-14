@@ -18,9 +18,15 @@
     <ClInclude Include="..\..\..\include\Intro-FW-Final-2\Intro-FW-Final-2-Header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\source\Intro-FW-Final-2\Intro-FW-Final-2-lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TicTacFuckMyAss.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
